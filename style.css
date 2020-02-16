@@ -97,27 +97,23 @@ a {
     text-align: center;
     text-decoration: none;
 	border-radius: 50%;
+	color: white;
 }
 #smbt:hover {
 	opacity: 0.7;
 }
 #smbt.fa-font-awesome {
 	background: #339af0;
-	color: white;
 }
 #smbt.fa-github {
 	background: #000000;
-	color: white;
 }
 #smbt.fa-link {
 	background: #f56942;
-	color: white;
 }
 #smbt.fa-envelope {
 	background: #0c5fb3;
-	color: white;
 }
 #smbt.fa-file-code {
 	background: #00993b;
-	color: white;
 }
