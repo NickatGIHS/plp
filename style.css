@@ -102,6 +102,16 @@ a {
 #smbt:hover {
 	opacity: 0.7;
 }
+#smbt.fa-html5 {
+	background: #c14823;
+}
+#smbt.fa-css3-alt {
+	background: #285ea8;
+}
+#smbt.fa-js-square {
+	background: #f7e018;
+	color: black;
+}
 #smbt.fa-font-awesome {
 	background: #339af0;
 }
