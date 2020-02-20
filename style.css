@@ -12,6 +12,20 @@ font-family: 'Raleway', Verdana, Geneva, sans-serif;
 a {
 	color: #009e1a;
 }
+.prog {
+	font-family: 'Courier Prime', monospace;
+}
+tr:nth-child(odd) {
+	background-color: #62a387;
+}
+tr:nth-child(even) {
+	background-color: #53806b;
+}
+.quote {
+	background-color: #b4dbca;
+	font-family: 'Titillium Web', sans-serif;
+	border-radius: 5px;
+}
 .txttitle {
 	font-family: 'Audiowide', cursive;
 	display: block;
