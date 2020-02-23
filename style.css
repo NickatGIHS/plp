@@ -17,6 +17,10 @@ a {
 	padding-left: 20px;
 	padding-right: 20px;
 }
+a.proga {
+	font-family: 'Courier Prime', monospace;
+	color: #62e200;
+}
 tr:nth-child(odd) {
 	background-color: #62a387;
 }
@@ -157,7 +161,11 @@ span.quote {
 #smbt.fa-file-code {
 	background: #00993b;
 }
-table {
-	padding-left: 20px;
-	padding-right: 20px;
+::-moz-selection {
+	color: #0b5a97;
+	background: #ccffa6;
+}
+::selection {
+	color: #0b5a97;
+	background: #ccffa6;
 }
