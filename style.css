@@ -14,6 +14,8 @@ a {
 }
 .prog {
 	font-family: 'Courier Prime', monospace;
+	padding-left: 20px;
+	padding-right: 20px;
 }
 tr:nth-child(odd) {
 	background-color: #62a387;
@@ -24,7 +26,22 @@ tr:nth-child(even) {
 .quote {
 	background-color: #b4dbca;
 	font-family: 'Titillium Web', sans-serif;
-	border-radius: 5px;
+	padding-right: 5px;
+	border-top-right-radius: 5px;
+}
+div.quote {
+	margin-left: 10px;
+	padding-left: 10px;
+	border-left-style: solid;
+	border-left-color: #62e200; /*ff4900*/
+	margin-right: 20px;
+	border-bottom-right-radius: 5px;
+}
+span.quote {
+	padding-left: 3px;
+	border-bottom-style: solid;
+	border-bottom-color: #62e200;
+	border-top-left-radius: 5px;
 }
 .txttitle {
 	font-family: 'Audiowide', cursive;
@@ -139,4 +156,8 @@ tr:nth-child(even) {
 }
 #smbt.fa-file-code {
 	background: #00993b;
+}
+table {
+	padding-left: 20px;
+	padding-right: 20px;
 }
