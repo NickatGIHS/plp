@@ -47,6 +47,8 @@ span.quote {
 	border-bottom-color: #62e200;
 	border-top-left-radius: 5px;
 }
+div.qn {border-color: #4dd6c5} /*56b8ac*/
+span.qn {border-bottom-color: #4dd6c5}
 .txttitle {
 	font-family: 'Audiowide', cursive;
 	display: block;
