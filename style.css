@@ -163,6 +163,18 @@ span.qn {border-bottom-color: #4dd6c5}
 #smbt.fa-file-code {
 	background: #00993b;
 }
+div.compl {
+	width: 200px;
+	max-width: 200px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	padding: 1px;
+	text-align: center;
+	color: gold;
+	display: inline-block;
+	background: navy;
+	border-radius: 10px;
+}
 ::-moz-selection {
 	color: #0b5a97;
 	background: #ccffa6;
