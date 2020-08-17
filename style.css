@@ -3,7 +3,7 @@ background-color: #99dec0;
 margin-left: 100px;
 margin-right: 100px;
 }
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6, h2 a {
 font-family: 'Josefin Sans', 'Trebuchet MS', Helvetica, sans-serif;
 }
 p, small, li, a {
